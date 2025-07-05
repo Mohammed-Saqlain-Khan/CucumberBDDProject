@@ -1,0 +1,425 @@
+
+[INFO ] 2025-07-01 15:18:43.234 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:20:29.844 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:21:34.603 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:22:08.432 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:22:32.703 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 15:22:32.703 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 15:22:34.016 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 15:22:36.295 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 15:22:39.859 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 15:22:40.427 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 15:23:43.648 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:23:47.632 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 15:23:47.634 [main] StepDef - fatal entering the user name and the password
+[INFO ] 2025-07-01 15:24:28.770 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:24:34.881 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 15:24:34.882 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 15:24:35.315 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 15:24:38.666 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 15:24:41.741 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 15:24:42.483 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 15:26:34.243 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:26:40.354 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 15:26:40.354 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 15:26:41.051 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 15:26:44.806 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 15:26:47.892 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 15:26:48.615 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 15:27:17.677 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 15:27:23.928 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 15:27:23.938 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 15:27:24.449 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 15:27:27.930 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 15:27:30.988 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 15:27:31.949 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 17:49:59.599 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 17:50:08.953 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 17:50:08.953 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 17:50:10.665 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 17:50:14.243 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 17:50:17.461 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 17:50:18.465 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 18:14:02.749 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 18:14:12.163 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 18:14:12.179 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 18:14:14.583 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 18:14:20.324 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 18:14:23.384 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 18:14:24.373 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 18:22:27.901 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 18:22:36.649 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 18:22:36.649 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 18:22:37.481 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 18:22:42.912 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 18:22:46.143 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 18:22:47.291 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-01 18:25:30.883 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-01 18:25:40.966 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-01 18:25:40.966 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-01 18:25:42.615 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-01 18:25:48.087 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-01 18:25:51.147 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-01 18:25:51.900 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-02 13:03:42.885 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-02 13:03:53.465 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-02 13:03:53.470 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-02 13:03:54.446 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-02 13:03:58.690 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-02 13:04:01.760 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-02 13:04:02.693 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-02 14:10:36.411 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-02 14:10:45.392 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-02 14:10:45.392 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-02 14:10:46.298 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-02 14:10:50.340 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-02 14:10:53.416 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-02 14:10:54.108 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-02 20:22:02.225 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-02 20:22:11.520 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-02 20:22:11.530 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-02 20:22:12.535 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-02 20:22:16.622 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-02 20:22:20.032 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-02 20:22:20.758 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-02 23:40:54.029 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-02 23:41:01.794 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-02 23:41:01.794 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-02 23:41:02.540 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-02 23:41:06.566 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-02 23:41:09.947 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-02 23:41:10.514 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-02 23:42:08.480 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-02 23:42:15.358 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-02 23:42:15.358 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-02 23:42:15.974 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-02 23:42:19.433 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-02 23:42:22.516 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-02 23:42:23.294 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-02 23:43:13.404 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-02 23:43:20.812 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-02 23:43:20.814 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-02 23:43:21.769 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-02 23:43:25.416 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-02 23:43:28.732 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-02 23:43:29.354 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 01:49:56.165 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 01:50:24.789 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 01:50:24.790 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 01:50:25.659 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 01:50:29.206 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 01:50:32.368 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 01:50:33.417 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 02:15:11.481 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 02:15:19.364 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 02:15:19.366 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 02:15:20.161 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 02:15:23.841 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 02:15:26.906 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 02:15:27.533 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 11:31:35.139 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 11:31:45.538 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 11:31:45.538 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 11:31:46.307 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 11:31:51.670 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 11:31:55.383 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 11:31:56.059 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 11:33:21.217 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 11:33:28.470 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 11:33:28.470 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 11:33:28.978 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 11:33:32.532 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 11:33:35.563 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 11:33:36.432 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 11:35:23.344 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 11:35:33.836 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 11:35:33.836 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 11:35:35.061 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 11:35:38.789 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 11:35:42.060 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 11:35:42.817 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 12:31:18.126 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 12:31:31.425 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 12:31:31.431 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 12:31:32.661 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 12:31:36.498 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 12:31:39.895 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 12:31:40.563 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 12:35:02.229 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 12:35:13.327 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 12:35:13.327 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 12:35:14.247 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 12:35:20.059 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 12:35:23.387 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 12:35:24.137 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 14:43:47.827 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 14:43:55.356 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 14:43:55.358 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 14:43:56.166 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 14:44:01.461 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 14:44:04.565 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 14:44:05.272 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-03 14:48:15.984 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-03 14:48:23.648 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-03 14:48:23.649 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-03 14:48:24.191 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-03 14:48:27.741 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-03 14:48:30.935 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-03 14:48:31.730 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 17:33:34.639 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 17:33:47.463 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 17:33:47.463 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 17:33:49.943 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 17:33:53.506 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 17:33:56.707 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 17:33:57.433 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 17:34:16.694 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 17:34:25.877 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 17:34:25.877 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 17:34:27.196 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 17:34:31.280 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 17:50:49.897 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 17:50:58.448 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 17:50:58.464 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 17:50:59.499 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 17:51:05.660 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 17:51:08.948 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 17:51:09.525 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 17:51:23.955 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 17:51:31.653 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 17:51:31.653 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 17:51:32.316 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 17:51:35.899 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:32:01.869 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:32:14.253 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:32:14.253 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:32:14.891 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:32:25.173 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:32:28.286 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 19:32:29.046 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 19:33:34.322 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:33:42.148 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:33:42.148 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:33:43.355 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:33:50.984 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:35:25.858 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:35:33.431 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:35:33.431 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:35:34.216 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:35:41.377 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:37:05.368 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:37:13.379 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:37:13.379 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:37:14.352 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:37:21.307 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:37:24.687 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 19:37:25.692 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 19:37:47.947 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:37:55.953 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:37:55.955 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:37:56.817 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:38:01.078 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:42:20.198 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:42:29.312 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:42:29.312 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:42:30.313 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:42:34.384 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:42:37.509 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 19:42:38.533 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 19:42:50.495 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:42:58.715 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:42:58.715 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:42:59.641 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:43:03.862 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:46:34.354 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:46:41.920 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:46:41.920 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:46:42.517 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:46:48.854 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:46:52.773 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 19:46:53.809 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 19:47:12.891 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:47:20.623 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:47:20.623 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:47:21.645 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:47:25.547 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:49:12.227 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:49:20.501 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:49:20.501 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:49:21.569 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:49:25.719 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 19:49:29.450 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 19:49:30.722 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 19:49:42.092 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 19:49:49.803 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 19:49:49.803 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 19:49:50.775 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 19:49:55.134 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 20:00:26.371 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 20:00:34.543 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 20:00:34.543 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 20:00:35.483 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 20:00:40.121 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 20:00:43.597 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 20:00:44.390 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 20:00:55.813 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 20:01:03.649 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 20:01:03.649 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 20:01:04.527 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 20:01:11.098 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 20:02:38.430 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 20:02:46.307 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 20:02:46.307 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 20:02:47.374 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 20:02:53.551 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 20:02:58.392 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 20:02:59.129 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 20:03:11.490 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 20:03:19.547 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 20:03:19.547 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 20:03:20.527 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 20:03:26.908 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 23:43:00.079 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 23:43:09.833 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 23:43:09.879 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 23:43:11.000 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 23:43:14.872 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 23:43:18.451 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 23:43:19.252 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 23:43:32.214 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 23:43:39.605 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 23:43:39.644 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 23:43:40.668 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 23:43:47.841 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 23:52:39.097 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 23:52:46.931 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 23:52:46.978 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 23:52:47.558 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 23:52:53.097 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-04 23:52:56.374 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-04 23:52:57.123 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-04 23:53:10.211 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-04 23:53:17.819 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-04 23:53:17.860 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-04 23:53:18.609 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-04 23:53:23.837 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 00:02:41.111 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 00:02:49.149 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 00:02:49.212 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 00:02:49.730 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 00:02:53.663 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 00:02:57.249 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 00:02:58.157 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 00:04:25.289 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 00:04:35.138 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 00:04:35.185 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 00:04:36.255 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 00:04:41.479 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 00:04:44.850 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 00:04:45.584 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 00:08:08.795 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 00:08:17.505 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 00:08:17.567 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 00:08:18.478 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 00:08:24.454 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 00:08:27.660 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 00:08:28.491 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 00:16:30.943 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 00:16:38.632 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 00:16:38.704 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 00:16:40.894 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 00:16:46.396 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 00:16:49.620 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 00:16:50.405 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 12:10:23.344 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 12:10:33.124 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 12:10:33.206 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 12:10:33.819 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 12:10:37.999 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 12:10:41.334 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 12:10:42.146 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 12:20:40.184 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 12:20:50.012 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 12:20:50.012 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 12:20:51.159 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 12:20:57.806 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 12:21:00.872 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 12:21:01.595 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 12:21:29.024 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 12:21:37.009 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 12:21:37.009 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 12:21:37.920 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 12:21:41.671 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 12:21:44.633 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 12:21:45.297 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 12:23:27.560 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 12:23:36.933 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 12:23:36.933 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 12:23:37.687 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 12:23:44.702 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 12:23:47.875 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 12:23:48.786 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 13:21:23.653 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 13:21:31.324 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 13:21:31.339 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 13:21:32.658 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 13:21:36.609 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 13:21:39.796 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 13:21:40.668 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 14:07:15.591 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 14:07:22.999 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 14:07:22.999 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 14:07:23.565 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 14:07:27.123 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 14:07:30.094 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 14:07:30.874 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 14:08:41.581 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 14:08:47.894 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 14:08:47.894 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 14:08:49.171 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 14:08:52.929 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 14:08:56.095 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 14:08:56.900 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 14:11:32.773 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 14:11:39.498 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 14:11:39.498 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 14:11:40.033 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 14:11:44.467 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 14:11:47.721 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 14:11:48.400 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 14:25:11.871 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 14:25:18.597 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 14:25:18.613 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 14:25:19.491 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 14:25:22.955 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 14:25:26.127 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 14:25:26.791 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 14:27:22.547 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 14:27:29.187 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 14:27:29.203 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 14:27:30.555 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 14:27:34.117 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 14:27:37.309 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 14:27:38.077 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 15:55:05.823 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 15:56:54.850 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 15:57:01.664 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 15:57:01.664 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 15:57:02.214 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 15:57:05.687 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 15:57:08.794 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 15:57:09.488 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 15:57:50.877 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 15:57:57.286 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 15:57:57.286 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 15:57:57.737 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 15:58:01.176 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 15:58:04.106 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 15:58:04.660 [main] StepDef - entering the user role debug information
+[INFO ] 2025-07-05 16:00:05.723 [main] StepDef - laucnching the chrome brower with info log
+[INFO ] 2025-07-05 16:00:12.894 [main] StepDef - gettting some logs methods
+[FATAL] 2025-07-05 16:00:12.896 [main] StepDef - fatal entering the user name and the password
+[ERROR] 2025-07-05 16:00:13.778 [main] StepDef - error log , clicking on the login button
+[WARN ] 2025-07-05 16:00:17.249 [main] StepDef - warn loog, clicking on the home page button
+[INFO ] 2025-07-05 16:00:20.693 [main] StepDef - clicking on the admin page
+[DEBUG] 2025-07-05 16:00:21.389 [main] StepDef - entering the user role debug information
